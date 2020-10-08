@@ -9,9 +9,7 @@ import org.springframework.data.mongodb.core.mapping.Document;
 /**
  * Created by jt on 6/13/17.
  */
-@Getter
-@Setter
-@Document
+
 public class UnitOfMeasure {
 
     @Id
